@@ -1,0 +1,63 @@
+
+
+
+
+.d-flex
+{
+ display:flex;
+  
+}
+.fww
+{
+    flex-wrap:wrap;
+}
+.jcsb
+{
+    justify-content: space-between;
+}
+.jcfe
+{
+    justify-content: flex-end;
+}
+.fdr
+{
+    flex-direction: row;
+}
+
+.fdc
+{
+    flex-direction: column;
+}
+.aic
+{
+ align-items: center;
+}
+.aifs
+{
+    align-items: flex-start; 
+}
+.align-self {
+     align-self: flex-end;
+  }
+
+
+
+.right
+{
+   
+    margin-left:auto;
+}
+
+.left
+{
+    margin-right:auto;
+}
+
+.center
+{
+    text-align:center;
+}
+.acc
+{
+align-content: center; 
+}

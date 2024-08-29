@@ -1,0 +1,219 @@
+.footer{
+     background-color: #aa0601;
+  } 
+
+
+
+.f1 li
+{
+  font-size: 16px;
+  color: #ffffff;
+ 
+ }
+
+ .f1-li-1 
+ {
+  padding: 0px 48px 0px 0px;
+}
+
+.f1 ul
+
+{
+  padding: 60px 0px 36px 0px;
+}
+.f2 ul
+{
+  padding-top: 0px;
+  padding-bottom: 32px;
+}
+
+
+.f2 li
+{
+  font-size: 24px;
+  color: #ffffff;
+ 
+}
+
+.f2-li-1 
+ {
+  padding: 0px 32px 8px 0px;
+}
+
+.f2-li-2
+ {
+  padding: 8px 32px 0px 0px;
+}
+
+.bi-telephone
+{
+  width: 36px;
+}
+.bi-envelope
+{
+  width: 40px;
+}
+
+
+.f2-txt
+{
+  font-size: 54px;
+  color: #ffffff;
+  padding: 8px 22px ;
+  
+}
+
+
+.f-icon li 
+{  
+  padding: 0px 0px 0px 32px;
+}  
+.f-icon ul 
+{  
+  padding: 48px 32px;
+  padding-right: 0px; 
+
+}
+
+.f-icon li img
+{  
+    width: 48px;
+    color: #ffffff;
+    padding: 0px; 
+}
+
+
+.f-final-left li
+{
+  font-size: 21px;
+  color: #ffffff;
+  padding: 32px 0px;
+  
+}
+
+.f-final-right li
+{
+
+  font-size: 21px;
+  color: #ffffff;
+  padding: 32px 0px 32px 48px;
+  
+}
+
+
+@media  (max-width: 992px)
+{
+.container {
+    margin: 0 auto;
+    max-width: 992px;
+   
+}
+.footer .container
+{
+  padding-left: 36px;
+  padding-right: 36px;
+}
+.f-icon ul 
+{  
+  padding: 48px 0px;
+  padding-right: 0px; 
+
+}
+.f2-li-2
+{
+padding-right: 0px;
+
+}
+.f2 ul
+{
+padding:12px 0px 12px 0px;
+
+}
+}
+
+
+@media  (max-width: 576px)
+{
+.container {
+    margin: 0 auto;
+    max-width: 576px;
+   
+}
+
+.footer
+{
+    padding:13px;
+}
+.f1 .f11
+{
+    display: none;
+}
+
+.f2 li
+
+{
+padding:11px 0px 8px 0px;
+
+}
+.bi-telephone
+{
+    width: 18px;
+    padding:0px;
+} 
+.bi-envelope
+{
+    width: 20px;
+    padding:0px;
+}
+
+.f2 .f2-txt
+{  
+    font-size: 24px;
+    color: #ffffff;
+    padding: 0px 0px 0px 11px ;   
+}
+
+
+.f-icon li 
+{  
+    font-size: 24px;
+    color: #ffffff;
+    padding: 0px 8px;
+}  
+.f-icon ul 
+{  
+    padding: 11px 0px 0px 0px;  
+}
+
+.f-icon li img
+{  
+      width: 24px;
+      padding: 0px; 
+}
+
+.ff .f-final
+{
+    display: block;
+}
+.f-final-left li
+{
+    font-size: 24px;
+    padding: 16px 0px 8px 0px;
+}
+.f-final-right ul
+{
+    display: block; 
+}
+
+.f-final-right li
+{
+    font-size: 24px;
+    padding: 4px 0px 8px 0px;
+}
+}
+
+
+ 
+
+     
+  

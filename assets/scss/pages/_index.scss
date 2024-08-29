@@ -1,0 +1,469 @@
+
+.banner
+{   
+    background-image: url('/assets/images/home-header.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+    max-width: 100%;
+}
+
+.banner-txt
+{
+    padding-top:296px;
+    padding-bottom:302px;   
+    color:#aa0601; 
+}
+.banner-txt1
+{  
+    color:#aa0601;
+    font-size: 32px;
+    text-align: right; 
+}
+.banner-txt2
+{  
+    color:#aa0601;
+    font-size: 64px;
+    text-align: right;
+}
+
+.banner-txt3 {
+    display: block;
+    width: 104px;
+    background-color: #aa0601;
+    margin-top: 4px;
+    margin-left: 474px;
+    margin-left: auto; 
+    text-align: right; 
+  }
+
+   
+  .banner-txt3 a {
+    display: block;
+    padding: 6px 12px 6px 12px;
+    font-size: 20px;
+    text-align: center;
+    color:#ffffff;
+    text-decoration:none;
+  }
+
+
+
+.section1
+{
+    background-color: #fbf2f2;
+}
+.section1 h1
+{
+    font-size: 48px;
+    color: #650300;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 32px;
+}
+.section2 h1
+{
+    font-size: 48px;
+    color: #650300;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.section4 h1
+{
+    font-size: 48px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 48px;
+}
+
+.section5 h1
+{
+    font-size: 48px;
+    color: #650300;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.section6 h1
+{
+    font-size: 48px;
+    color: #650300;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 48px;
+}
+.section1-ul
+{
+    width:25%;
+    padding:12px;
+}
+.section1-bp
+{
+    font-size: 24px;
+    color: #650300;
+    text-align: center;
+}
+.section1-sp
+{
+    font-size: 16px;   
+    padding-bottom: 48px;
+}
+
+.section1 li img
+{
+    width:84px;
+    margin: 0 auto; 
+    display:block;   
+}
+
+.section2 li img
+{
+    max-width: 100%;
+    margin: 0 auto; 
+    display:block;    
+}
+
+
+.section2-img-1
+{
+    padding:12px 12px 12px 0px;
+}
+.section2-img-2
+{ 
+    padding:12px;
+}
+.section2-img-3
+{
+    padding:12px 0px 12px 12px;
+}
+.section2-ul-1
+{
+    padding-left:0px;
+}
+
+
+.section2-bp
+{
+    font-size: 48px;
+    color: #aa0601;
+    text-align: center;
+    padding-bottom:80px;
+}
+
+.section4
+{  
+    background-image: url('/assets/images/index-bg.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+    max-width: 100%;
+}
+.section4 li img
+{
+    max-width: 100%;
+    margin: 0 auto; 
+    display:block;   
+}
+
+
+.section4-part2
+{
+    padding-top:0px;
+    padding-bottom:80px;   
+    color:#aa0601;
+}
+.section4-txt1
+{
+    background-color: #ffffff;
+    color:#aa0601;
+    font-size: 48px;
+    text-align: center; 
+}
+.section4-txt2
+{
+    background-color: #ffffff;
+    color:#aa0601;
+    font-size: 48px;
+    text-align: center;
+}
+
+.section5 .card-img-top
+{
+    max-width: 100%;
+    margin: 0 auto; 
+    display:block;     
+}
+
+
+.section5-img-1
+{ 
+    padding:12px 12px 12px 0px;
+}
+.section5-img-2
+{
+    padding:12px;
+}
+.section5-img-3
+{ 
+    padding:12px;
+}
+.section5-img-4
+{
+    padding:12px 0px 12px 12px;
+}
+.section5-ul-1
+{
+    padding-left:0px;
+    border:1px solid 
+}
+
+
+.section5-bp1
+{
+    font-size: 16px;
+    color: #000000;
+    text-align: left;
+    padding:16px 0px 8px 16px;
+}
+.section5-bp2
+{
+    font-size: 16px;
+    color: #000000;
+    text-align: left;
+    padding:8px 16px 8px 16px;
+}
+
+.section5-bp3
+{
+    font-size: 14px;
+    color: #707070;
+    text-align: left;
+    padding:64px 0px 16px 16px;
+}
+
+.card
+{
+    box-shadow: 0px 2px 6px #00000029;
+    border: 1px solid #DEE2E6;
+}
+
+
+.card1
+{
+    margin:8px 12px 80px 0px;
+}
+.card2
+{
+    margin:8px 12px 80px 12px;
+}
+.card3
+{
+    margin:8px 12px 80px 12px;
+}
+.card4
+{
+    margin:8px 0px 80px 12px;
+}
+   
+
+
+.section6
+{  
+    background-color:#fbf2f2;
+    
+    
+}
+
+.section6-p1
+{
+    margin-bottom:24px;
+    font-size: 20px;
+}
+.section6-p2
+{
+    margin-bottom:8px;
+    font-size: 16px;
+}
+
+
+.container2
+{
+    width:636px;
+    margin: 0 auto;
+    position: relative;
+    
+}
+.imput1
+
+{
+    width:636px;
+    height: 36px;
+    margin-bottom:16px;
+    align-items: center;
+}
+.imput2
+
+{
+    width:636px;
+    height: 136px;
+    margin-bottom:16px;
+    align-items: center;
+}
+
+.section6-but  
+{
+   display:flex;
+
+}                                                                                                   
+
+
+.SUBMIT
+{
+   
+    width:416px;
+    height: 56px;
+    background-color: #aa0601;
+    color: #ffffff;
+    font-size: 16px;
+
+    margin:48px 110px 80px 110px;
+    padding:0px;
+   
+   
+    justify-content:  center;
+}
+
+
+
+
+
+.w-50
+{
+width: 50%;
+}
+
+.w-25
+{
+width: 25%;
+}
+
+@media  (max-width: 992px)
+{
+.container {
+    margin: 0 auto;
+    max-width: 992px;
+   
+}
+
+.banner
+{   
+    background-image: url('/assets/images/home-header-sm.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+    max-width: 100%;
+}
+.banner-txt
+{
+padding-right: 36px;
+
+}
+.section1 .container
+{
+    flex-wrap:wrap;
+}
+.section1-ul
+{
+    width:50%;
+    padding:12px;
+}
+
+
+.section2 .container
+{
+    display:block;
+}
+.section2-img-1
+{
+    width: 50%;
+    margin: 0 auto;
+    
+}
+.section2-img-2
+{
+    width: 50%;
+    margin: 0 auto;
+    
+}
+.section2-img-3
+{
+    width: 50%;
+    margin: 0 auto;
+    
+}
+
+
+
+
+
+
+.section4-1 .container
+{
+    display:block;
+}
+
+.section4-part1
+{
+    padding-left:36px;
+    padding-right: 36px;
+   
+    color:#aa0601;
+}
+.section4-part2
+{
+    padding-left:36px;
+    padding-right: 36px;
+    padding-top:24px;
+    padding-bottom:80px;   
+    color:#aa0601;
+}
+.section5 .container
+{
+    flex-wrap:wrap;
+}
+.section5 .card
+{
+    width: 48%;
+    padding:12px;
+}
+
+}
+
+
+
+
+@media  (max-width: 576px)
+{
+.container {
+    margin: 0 auto;
+    max-width: 576px;
+   
+}
+
+.banner
+{   
+    background-image: url('/assets/images/home-header-sm.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+    max-width: 100%;
+}
+}
+
+
+
+
