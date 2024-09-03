@@ -1,21 +1,32 @@
 .fill-nav
 {
     background-color: #aa0601;
-    
+     
 }
 
 .nav
 {
     background-color: #aa0601;
-   
+     
 }
+a{text-decoration:none}
+
+
 
 .nav2 li
 {
-    font-size: 30px;
+  
+    font-size: 20px;
     color: #ffffff;
     padding: 25px 32px;
-   
+    text-decoration:nonea;
+     
+}
+.nav2 a
+{
+    
+    color: #ffffff;
+     
 }
 
 @media  (max-width: 992px)
@@ -25,21 +36,115 @@
     max-width: 992px;
    
 }
-.nav1
+
+
+.footer
 {
-padding:16px 0px 16px 36px;
+    padding:13px;
+}
+.f1 .f11
+{
+    display: none;
+}
+
+.f2 li
+
+{
+padding:11px 0px 8px 0px;
 
 }
+.bi-telephone
+{
+    width: 18px;
+    padding:0px;
+} 
+.bi-envelope
+{
+    width: 20px;
+    padding:0px;
+
+}
+
+.f2 .f2-txt
+{  
+    font-size: 24px;
+    color: #ffffff;
+    padding: 0px 0px 0px 11px ;   
+}
+.f2 .a
+{
+    font-size: 24px;
+    color: #ffffff; 
+}
+
+.f-icon li 
+{  
+    font-size: 24px;
+    color: #ffffff;
+    padding: 0px 8px;
+}  
+.f-icon ul 
+{  
+    padding: 11px 0px 0px 0px;
+   
+}
+
+.f-icon li img
+{  
+      width: 24px;
+      padding: 0px; 
+}
+
+
+.ff .f-final
+{
+    display: block;
+}
+.f-final-left li
+{
+
+    font-size: 24px;
+    padding: 16px 0px 8px 0px;
+}
+.f-final-right ul
+
+{
+  
+    display: block;
+    
+}
+
+.f-final-right li
+{
+
+    font-size: 24px;
+    padding: 4px 0px 8px 0px;
+}
+
 }
 
 
 
-@media  (max-width: 576px)
+
+
+
+
+
+
+@media  (max-width: 767px)
 {
 .container {
     margin: 0 auto;
-    max-width: 576px;
+    max-width: 767px;
+    padding-left: 0px;
+    padding-right: 0px;
    
+}
+a
+{
+    
+    color: #ffffff;
+     
 }
 .fill-nav .nav
 {
@@ -63,10 +168,166 @@ padding:16px 0px 16px 36px;
 .nav2 li
 {
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     border: 1px solid #ffffff;
     padding: 12px 60px;
     width: 50%;
 
 }
+.footer
+{
+    padding:13px;
+}
+.f1 .f11
+{
+    display: none;
+}
+
+.f2 li
+
+{
+padding:11px 0px 8px 0px;
+
+}
+.bi-telephone
+{
+    width: 18px;
+    padding:0px;
+} 
+.bi-envelope
+{
+    width: 20px;
+    padding:0px;
+
+}
+.f2
+{
+    padding: 0px;  
+}
+.f2 .f2-txt
+{  
+    font-size: 16px;
+    color: #ffffff;
+    padding: 0px 0px 0px 11px ;   
+}
+.f2 a
+{
+    color: #ffffff; 
+}
+.f-icon li 
+{  
+    font-size: 24px;
+    color: #ffffff;
+    padding: 0px 8px;
+}  
+.f-icon ul 
+{  
+    padding: 11px 0px 0px 0px;
+   
+}
+
+.f-icon li img
+{  
+      width: 24px;
+      padding: 0px; 
+}
+
+
+.ff .f-final
+{
+    display: block;
+}
+.f-final-left li
+{
+
+    font-size: 16px;
+    padding: 16px 0px 8px 0px;
+}
+.f-final-right ul
+
+{
+  
+    display: block;
+    
+}
+
+.f-final-right li
+{
+
+    font-size: 16px;
+    padding: 4px 0px 8px 0px;
+}
+
+}
+/*
+
+
+
+*/
+
+
+
+
+
+
+
+
+.d-flex
+{
+ display:flex;
+  
+}
+.fww
+{
+    flex-wrap:wrap;
+}
+.jcsb
+{
+    justify-content: space-between;
+}
+.jcfe
+{
+    justify-content: flex-end;
+}
+.fdr
+{
+    flex-direction: row;
+}
+
+.fdc
+{
+    flex-direction: column;
+}
+.aic
+{
+ align-items: center;
+}
+.aifs
+{
+    align-items: flex-start; 
+}
+.align-self {
+     align-self: flex-end;
+  }
+
+
+
+.right
+{
+   
+    margin-left:auto;
+}
+
+.left
+{
+    margin-right:auto;
+}
+
+.center
+{
+    text-align:center;
+}
+.acc
+{
+align-content: center; 
 }
